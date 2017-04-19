@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SelfieGeek</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_message">* Click photos and then upload them to the cloud * Record video and posting it to the cloud  * View all uploaded photos and videos</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682388942831",
+    "firebase_url": "https://slefiegeek.firebaseio.com",
+    "project_id": "slefiegeek",
+    "storage_bucket": "slefiegeek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682388942831:android:f3b0ac52b77e8d37",
+        "android_client_info": {
+          "package_name": "com.example.selfiegeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682388942831-7jmk6rbd82qo7ab8uli82s82la7a7kri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.selfiegeek",
+            "certificate_hash": "383975c9da2d46cfaf645490eba4d9093444b2a5"
+          }
+        },
+        {
+          "client_id": "682388942831-tvmjjpdgeeqr40ksnivkeqkj0md9luni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmIyPrpGeLtikoGPWE5lJoyJiJbEhFP8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682388942831-tvmjjpdgeeqr40ksnivkeqkj0md9luni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
